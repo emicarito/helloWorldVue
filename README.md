@@ -1,2 +1,0 @@
-# helloWorldVue
-Created with CodeSandbox
